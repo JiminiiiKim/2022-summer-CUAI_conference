@@ -8,3 +8,4 @@
 
 ## 진행 상황
 * 2주 간의 인스타 크롤링으로 2017개의 데이터 수집 후 핫플레이스라고 불리는 '동' 선정 
+![6123](https://user-images.githubusercontent.com/100768412/209813582-be25be03-5839-4e38-a3f8-8d7cd3dcdb52.PNG)
